@@ -20,7 +20,7 @@
     color: rgb(0, 0, 0);
 }
 
-.imgC{
+.imgC{  
     display: flex;
     justify-content: center;
     justify-content: space-around;
