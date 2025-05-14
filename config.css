@@ -17,13 +17,13 @@ main{
 
 
 .menu{
-    background-color: rgb(243, 125, 89);
+    
     width: 100%;
     max-width: 30rem;
     height: 100vh;
 }
 section{
-    background-color: white;
+    background-color: rgb(49, 49, 177);
     width: 100%;
     height: 100rem;
 }
