@@ -1,0 +1,34 @@
+.articulo1{
+
+    padding: 20px   ;
+}
+.texto1{
+    font-size: 6rem;
+    margin-left: 10px;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.parrafo1{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.subtitulo1{
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+}
+
+.imgC{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 3rem;
+}
+
+
+.img{
+    width: 50rem;
+    height: 28rem;
+}
